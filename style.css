@@ -8,6 +8,9 @@ body{
     min-height: 100vh;
     /* min-width: none; */
     background-color: #1dd1a1;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 .colors{
     position: absolute;
@@ -49,4 +52,24 @@ body{
 }
 .colors span.active::before{
     opacity: 1;
+}
+.color_box{
+    display: flex;
+    position: absolute;
+    /* max-width: 300px; */
+    /* max-height: 200px; */
+    align-items: center;
+    justify-content: center;
+    /* top: 50%; */
+    /* left: 50%; */
+    background: #fff;
+    width: 700px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: -3px 6px 15px 0px;
+}
+.color_box h1{
+    font-size: 8em;
+    color:#222;
+    letter-spacing: 5px;
 }
