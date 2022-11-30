@@ -6,15 +6,12 @@ Link :- https://killertian.github.io/Background-Color-Change/
 
 Preview
 
-![image](https://user-images.githubusercontent.com/77867638/200899342-60825c65-fa6a-4af3-a8ef-daa9780bde97.png)
+![image](https://user-images.githubusercontent.com/77867638/204870150-b9aac8f9-2513-436a-a92e-4d9bec5e0b62.png)
+![image](https://user-images.githubusercontent.com/77867638/204870177-efa0db8c-e797-4220-af5b-6fb3457f1176.png)
+![image](https://user-images.githubusercontent.com/77867638/204870212-090ec380-5891-425c-b67d-14bea74630a6.png)
+![image](https://user-images.githubusercontent.com/77867638/204870247-1f3d1ba1-52cc-45e9-ab08-041ae732418d.png)
+![image](https://user-images.githubusercontent.com/77867638/204870309-99fa10d9-f266-49de-89e7-9c2d40e0e3d3.png)
 
-![image](https://user-images.githubusercontent.com/77867638/200899413-d85459a7-4c61-485b-9eae-774cf2436dee.png)
-
-![image](https://user-images.githubusercontent.com/77867638/200899440-f57b5fc9-3a6b-4ba3-a7d9-5c73722f17f0.png)
-
-![image](https://user-images.githubusercontent.com/77867638/200900074-19788a7e-2700-4703-accb-0fef0c8c9b9f.png)
-
-![image](https://user-images.githubusercontent.com/77867638/200900115-db7a50ea-2f5b-4111-94b4-146c56ea5630.png)
 
 # License
 
